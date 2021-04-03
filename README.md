@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am [Luan] [wensite] but you can call me Paul
+![](https://visitor-badge.laobi.icu/badge?page_id=s3822042.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/s3822042?label=Follow&style=social)](https://github.com/s3822042)
 
 
 - 🔭 I’m currently working on Native desktop app with Electronjs
@@ -27,13 +29,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-![](https://visitor-badge.laobi.icu/badge?page_id=s3822042.CharalambosIoannou)
-[![Github](https://img.shields.io/github/followers/s3822042?label=Follow&style=social)](https://github.com/s3822042)
+
 
 <br />
 
 ## :blue_book: Blog posts:
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ## :trophy: My Github Stats:
