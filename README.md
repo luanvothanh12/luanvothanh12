@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-<!--
-**s3822042/s3822042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Native desktop app with Electronjs
+- 🌱 I’m currently learning Reactjs
+- 👯 I’m looking to collaborate on anyone on any project
+- 🤔 I’m looking for help with Reactjs
+- 💬 Ask me about anything
+- 📫 How to reach me: paulluanvothanh@gmail.com or call me +84 929-060-0201
+- 😄 Pronouns: Passion , energetic and actively learning
+- ⚡ Fun fact: I love to design and read books
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## ✉️ Find me on:
 
 
@@ -33,10 +29,28 @@ Here are some ideas to get you started:
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=s3822042.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/s3822042?label=Follow&style=social)](https://github.com/s3822042)
+
+<br />
+
+## :blue_book: Blog posts:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+## :trophy: My Github Stats:
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=s3822042&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=s3822042&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=s3822042&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight" />
+</a>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3822042&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3822042&theme=tokyonight)
+[website]: https://s3822042.github.io/
+[linkedin]: https://linkedin.com/in/vo-thanh-luan
+[mail]: mailto:paulluanvothanh@gmail.com
 
