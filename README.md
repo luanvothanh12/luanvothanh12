@@ -51,13 +51,10 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=s3822042&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=s3822042&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=s3822042&hide=php&theme=tokyonight" />
-</a>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3822042&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3822042&layout=compact&show_icons=true&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
+
 
 [website]: https://s3822042.github.io/
 [linkedin]: https://linkedin.com/in/vo-thanh-luan
