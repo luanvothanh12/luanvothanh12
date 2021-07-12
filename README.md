@@ -88,9 +88,9 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
+<br/>    
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3822042&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3822042&layout=compact&show_icons=true&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
