@@ -8,7 +8,7 @@
 
   
 
-- 🌱 I’m currently learning React-js  
+- 🌱 I’m currently learning Angular  
   
 
 - ❓ Ask me about anything related to JAVASCRIPT and REACT and related technologies  
