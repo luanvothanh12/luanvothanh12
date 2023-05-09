@@ -6,9 +6,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=s3822042.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/s3822042?label=Follow&style=social)](https://github.com/s3822042)
 
-  
 
-- 🌱 I’m currently learning Angular  
+- 🌱 I’m currently learning Vue
   
 
 - ❓ Ask me about anything related to JAVASCRIPT and REACT and related technologies  
@@ -105,6 +104,9 @@
 </div>  
 
 <br/>    
+
+
+  <a href="https://github.com/s3822042/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=s3822042&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3822042&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
  
