@@ -3,8 +3,8 @@
 
 ### <div align="center">I'm Luan, a full-time full-stack freelance developer 👨‍💻 I am student 🚀</div>  
   
-![](https://visitor-badge.laobi.icu/badge?page_id=s3822042.CharalambosIoannou)
-[![Github](https://img.shields.io/github/followers/s3822042?label=Follow&style=social)](https://github.com/s3822042)
+![](https://visitor-badge.laobi.icu/badge?page_id=luanvothanh12.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/luanvothanh12?label=Follow&style=social)](https://github.com/luanvothanh12)
 
 
 - 🌱 I’m currently learning Vue
@@ -77,22 +77,22 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/s3822042" target="_blank">
+<a href="https://github.com/luanvothanh12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/luanvothanh__" target="_blank">
+<a href="https://twitter.com/luanv_othanh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/vo-thanh-luan/" target="_blank">
+<a href="https://linkedin.com/in/luanvothanh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100008659242682" target="_blank">
+<a href="https://fb.com/ciaraluanvothanh" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/paulluanvothanh/" target="_blank">
+<a href="https://instagram.com/luanv_othanh/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
@@ -106,8 +106,8 @@
 <br/>    
 
 
-  <a href="https://github.com/s3822042/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=s3822042&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/luanvothanh12/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=luanvothanh12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3822042&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvothanh12&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/luanvothanh12)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3822042&layout=compact&show_icons=true&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/s3822042)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanvothanh12&layout=compact&show_icons=true&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/luanvothanh12)
